@@ -64,6 +64,8 @@ public class RunnableInterface_ThreadCreationByExtendingThreadClass_171 {
 		System.out.println(endTime);
 
 		System.out.println("Total time required to Process : " + (endTime - startTime));
+		System.out.println("Total time required to Process : " + (endTime - startTime));
+
 
 	}
 
