@@ -1,7 +1,7 @@
 /*
  * package section10_AnnonymusInnerClass_97;
  * 
- * abstract class Lock{
+ * abstract class Lock1{
  * 
  * public abstract boolean isUnlocked (String keyCode); }
  * 
