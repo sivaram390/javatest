@@ -1,0 +1,69 @@
+So today we will check out the categorization of nested class.
+
+Now, if we check the category of nested class, these are divided immediately into two categories static
+
+nested class and a non static nested class.
+
+Now, there is no further categorization in the static nested class branch.
+
+And what is a static nested class is something which we will check in about later down the line videos.
+
+All right.
+
+So now let's check not a static nested class.
+
+Now, if we check this category, there are three elements in this category.
+
+These are member in our class, local in class and anonymous in a class.
+
+Member in our class is something which we have already checked in our last video.
+
+The title of the video is In Our Class.
+
+Now, what is a member in our class where we have a non-stick class inside a non-stick class?
+
+Pretty simple, right?
+
+Now, moving forward, we will also check local in our class in our forthcoming videos.
+
+Now, local class is a class which is inside a scope of a block.
+
+Now, discord block could be a method as well.
+
+So how we will deal with a local in our class is something which we will check in a later video.
+
+As the name suggest, local in our class has a scope limited to that code block only then finally moving
+
+forward we have the anonymous in our class.
+
+Now anonymous in our class is a name less class inside a class.
+
+As the name suggests, there is no name to this class.
+
+It is anonymous and as that is a new name to the inner class, we can only use it once in the lifetime.
+
+So it is again a property of Anonymous in that class.
+
+Definitely we will check and demonstration of Anonymous in that class as well in this course.
+
+Now finally, the nonstick method class plant is known as inert class plant.
+
+And as far as my knowledge is concerned, this is due to because.
+
+The instance of a non aesthetic inert class contains instance of an inert class.
+
+Let me repeat it once again.
+
+This branch is known as inert class majorly due to the fact that that is an instance in, say, the
+
+instance.
+
+Now, when it comes to static nested class, no static class needs to be accessed using object order
+
+instance.
+
+And though we can directly access the elements inside a static class.
+
+So how static works is something which we will check later down the line before taking out a static
+
+nested class.
